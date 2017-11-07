@@ -5,7 +5,7 @@ using System.Web;
 
 namespace RafaelaDenunciaWS.Models
 {
-    public class Class1
+    public class Usuario
     {
     }
 }
